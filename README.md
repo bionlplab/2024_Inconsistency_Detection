@@ -1,6 +1,6 @@
-# 2024_npjDM_Inconsistency_Detection
+# 2024_Inconsistency_Detection
 
-This repository contains the source code for Uncovering Misattributed Suicide Causes through Annotation Inconsistency Detection in Death Investigation Notes. 
+This repository contains the source code for Detecting Suicide-Cause Annotation Inconsistencies in Death Investigation Notes. 
 
 ## Acknowledgement
 
